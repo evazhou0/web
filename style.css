@@ -1,0 +1,48 @@
+
+body{
+    background-color: #F5F5F5 !important;
+}
+
+.toprow{
+    text-align: center;
+}
+
+#titulo{
+    font-family:'';
+    font-size: 3em;
+    text-align: center;
+}
+#titulo2{font-family:'';
+    font-size: 2em;
+    text-align: center;}
+
+.title{
+    font-family: monospace; 
+    text-align: center;
+ }
+.etexto{
+    text-align: center;
+    font-family: monospace;
+    font-size: larger;
+    margin:0 auto}
+
+
+.box{ 
+    position: sticky !important;
+    text-align: center;
+    top: 50px;
+    width: 40px;
+    
+}
+#box_texto{
+    text-align: center
+}
+
+#button{
+    top: 00cm
+}
+
+.point{
+    text-align: center;
+}
+
